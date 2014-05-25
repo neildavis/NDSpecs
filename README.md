@@ -1,0 +1,4 @@
+NDSpecs
+=======
+
+Personal CocoaPods repo
